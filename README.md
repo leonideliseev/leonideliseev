@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonideliseev&hide=stars,issues&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonideliseev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Leonid's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonideliseev&hide=stars,issues&theme=radical&rank_icon=github)](https://github.com/leonideliseev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonideliseev&layout=compact&theme=radical)](https://github.com/leonideliseev)
 
 ## My cool projects:
 [![Song Library](https://github-readme-stats.vercel.app/api/pin/?username=leonideliseev&repo=songLibraryCrud)](https://github.com/leonideliseev/songLibraryCrud)
