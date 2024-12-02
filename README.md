@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonideliseev&layout=compact&theme=radical)](https://github.com/leonideliseev)
 
 ## My cool projects:
-[![Song Library](https://github-readme-stats.vercel.app/api/pin/?username=leonideliseev&repo=songLibraryCrud)](https://github.com/leonideliseev/songLibraryCrud)
-[![Reddit With Graph QL](https://github-readme-stats.vercel.app/api/pin/?username=leonideliseev&repo=RedditWithGraphQL)](https://github.com/leonideliseev/RedditWithGraphQL)
+[![Song Library](https://github-readme-stats.vercel.app/api/pin/?username=leonideliseev&repo=songLibraryCrud&theme=radical)](https://github.com/leonideliseev/songLibraryCrud)
+[![Reddit With Graph QL](https://github-readme-stats.vercel.app/api/pin/?username=leonideliseev&repo=RedditWithGraphQL&theme=radical)](https://github.com/leonideliseev/RedditWithGraphQL)
 ### Coming soon:
 - **Online Chat** with websockets
